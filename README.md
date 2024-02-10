@@ -12,12 +12,12 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=loucov">
+  <img align="right" src="https://komarev.com/ghpvc/?username=loucov&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/018d9064-c0af-42c9-8aa4-b38d401069b3.svg)](https://wakatime.com/@018d9064-c0af-42c9-8aa4-b38d401069b3)
+<!--[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
 <h3 align="center">
