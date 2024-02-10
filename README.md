@@ -1,14 +1,16 @@
-
-<p align="center">
-  <a href="https://github.com/loucov"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
-
+<!-- Views -->
 <a href="https://komarev.com/ghpvc/?username=loucov">
   <img align="right" src="https://komarev.com/ghpvc/?username=loucov&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018d9064-c0af-42c9-8aa4-b38d401069b3.svg)](https://wakatime.com/@018d9064-c0af-42c9-8aa4-b38d401069b3)
+
+<!-- Banner -->
+
+<p align="center">
+  <a href="https://github.com/loucov"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 
 <!-- Intro  -->
 <h3 align="center">
