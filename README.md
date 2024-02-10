@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
- <a href="https://loucov.vercel.app" target="blank">
+ <a href="https://covillouco.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="louco" />
  </a>
  <a href="https://linkedin.com/in/loucov" target="_blank">
