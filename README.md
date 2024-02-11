@@ -24,6 +24,7 @@
   <samp>
     <a href="https://www.google.com/search?q=LouCov">「 Google Me 」</a>
     <br>
+    <br>
     「 I am a full stack web application developer and IT Auditor from <b>Haiti</b> 」
     <br>
     <br>
