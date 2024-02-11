@@ -19,8 +19,6 @@
         </samp>
 </h3>
 
-<br>
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=LouCov">「 Google Me 」</a>
